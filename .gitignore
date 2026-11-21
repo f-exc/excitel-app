@@ -1,0 +1,7 @@
+.excitel-session.json
+*.apk
+*.bin
+*.xml
+__pycache__/
+.creds
+captures/
